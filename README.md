@@ -1,5 +1,13 @@
-### Hi there 👋
+## Welcome 👋
 
+#### Hi, I'm Aleksey! 1st year student from Krasnodar. I completed the Samsung IT School course. Nowdays I focus on Android development, also try to develop desktop applications in C++ with Qt Framework. Always glad to meet new people🤘
+
+### Contact
+* [Telegram](https://t.me/HellGuy39)
+
+### Stats
+[![HellGuy39's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellguy39)](https://github.com/hellguy39/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellguy39&layout=compact)](https://github.com/hellguy39/github-readme-stats)
 <!--
 **HellGuy39/HellGuy39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
