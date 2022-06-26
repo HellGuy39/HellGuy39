@@ -1,7 +1,5 @@
 ## Welcome 👋
 
-#### Hi, I'm Aleksey! 1st year student from Krasnodar. I completed the Samsung IT School course. Nowdays I focus on Android development. Always glad to meet new people🤘
-
 ### Contact
 * [Telegram](https://t.me/HellGuy39)
 
